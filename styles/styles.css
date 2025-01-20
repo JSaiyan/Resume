@@ -1,6 +1,19 @@
-
+html
+{
+    font-family: sans-serif;
+}
 body
 {
     background-color: aqua;
+    margin: 20px 100px;
 }
 
+div.education > p
+{
+    margin: 3px 0px;
+}
+
+div.Ex > p
+{
+    margin: 3px 0px;
+}
